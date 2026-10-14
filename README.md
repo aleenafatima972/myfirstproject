@@ -49,7 +49,7 @@ npm install
 npm run dev
 ```
 
-Then open **http://localhost:5173** in your browser. Press `Ctrl + C` in the terminal to stop the server.
+Then open **http://localhost:5177** in your browser. Press `Ctrl + C` in the terminal to stop the server.
 
 ## Available scripts
 
@@ -95,7 +95,7 @@ Tasks are saved in your browser's `localStorage` under the key `taskflow.tasks`.
 - The data stays on **your computer, in that browser only**.
 - Clearing your browser's site data will delete your tasks.
 
-To reset the app, open the browser DevTools (`F12`), go to **Application → Local Storage → http://localhost:5173**, and delete the `taskflow.tasks` key.
+To reset the app, open the browser DevTools (`F12`), go to **Application → Local Storage → http://localhost:5177**, and delete the `taskflow.tasks` key.
 
 ## Customising the theme
 
